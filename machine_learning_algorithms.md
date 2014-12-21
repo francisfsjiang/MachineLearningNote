@@ -12,7 +12,7 @@ Give the algorithm a data set in which the “right answers” were given
 
 • Regression
 
-Predict continuous valued output.
+??Predict continuous valued output.
 
 • Classification
 
