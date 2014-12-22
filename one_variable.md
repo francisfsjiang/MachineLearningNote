@@ -16,3 +16,5 @@ CostFunction
 
 $$J (\theta_0, \theta_1) = \frac{1}{2 m} \sum_{i = 1}^{m_{}} (h_{\theta}
 (x^{(i)}) - y^{(i)})^2$$
+
+$$\underset{\theta_0, \theta_1}{\tmop{minimize}} J (\theta_0, \theta_1)$$
