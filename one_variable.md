@@ -1,4 +1,4 @@
 # One Variable
 
 * m = Number of training examples.
-* x = “input'' variable / feature.
+* x = "input" variable / feature.
