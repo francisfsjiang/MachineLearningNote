@@ -7,3 +7,4 @@
 Hypothesis
 
 $$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
+
