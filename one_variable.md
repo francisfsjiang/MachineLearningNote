@@ -11,3 +11,8 @@ $$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
 Parameters
 
 $$ \theta_{0}, \theta_{1}$$
+
+CostFunction
+
+$$J (\theta_0, \theta_1) = \frac{1}{2 m} \sum_{i = 1}^{m_{}} (h_{\theta}
+(x^{(i)}) - y^{(i)})^2$$
