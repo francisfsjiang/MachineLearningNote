@@ -8,3 +8,6 @@ Hypothesis
 
 $$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
 
+Parameters
+
+$$ \theta_{0}, \thetat_{1}$$
