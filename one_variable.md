@@ -4,5 +4,6 @@
 * x = "input" variable / feature.
 * y = "output" variable / "target" variable.
 
+Hyposis
 
 $$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
