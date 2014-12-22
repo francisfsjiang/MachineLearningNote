@@ -5,4 +5,4 @@
 * y = "output" variable / "target" variable.
 
 
-$h_{\theta} (x) = \theta_0 + \theta_1 x$
+$$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
