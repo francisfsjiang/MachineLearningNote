@@ -10,4 +10,4 @@ $$ h_{\theta} (x) = \theta_0 + \theta_1 x$$
 
 Parameters
 
-$$ \theta_{0}, \thetat_{1}$$
+$$ \theta_{0}, \theta_{1}$$
