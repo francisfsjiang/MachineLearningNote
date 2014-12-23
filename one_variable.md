@@ -17,8 +17,11 @@ CostFunction
 $$J (\theta_0, \theta_1) = \frac{1}{2 m} \sum_{i = 1}^{m_{}} (h_{\theta}
 (x^{(i)}) - y^{(i)})^2$$
 
+Goal
+
 $$\underset{\theta_0, \theta_1}{minimize}  J (\theta_0, \theta_1)$$
 
+Gradient Descent
 
 $$\begin{array}{lll}
   \theta_j & = & \theta_j - \alpha \frac{\partial}{\partial \theta_j} J
