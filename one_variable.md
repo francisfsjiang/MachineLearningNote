@@ -28,6 +28,8 @@ $$\begin{array}{lll}
   (\theta_0, \theta_1)  (for j = 0 and j = 1)
 \end{array}$$
 
+
+
 $$\begin{array}{lll}
   temp_0 & = & \theta_0 - \alpha \frac{d}{d \theta_0} J (\theta_0,
   \theta_1)\\
