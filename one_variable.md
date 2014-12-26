@@ -30,6 +30,7 @@ $$\begin{array}{lll}
 
 
 
+
 $$\begin{array}{lll}
   temp_0 & = & \theta_0 - \alpha \frac{d}{d \theta_0} J (\theta_0,
   \theta_1)\\
